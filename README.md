@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Generating Music with GANs 
 
 ## Getting Started
@@ -58,3 +59,6 @@ Then open python console and check for cuda availability
 
 >>> import torch
 >>> torch.cuda.is_available()
+=======
+It will be an application that could generate lyrics and song melodies from trending songs but the voice will be client' own voice and they will try to perform them.
+>>>>>>> 0c1a54077a688aa535ea498dbfbed3155554401b
